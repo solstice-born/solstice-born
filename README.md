@@ -1,9 +1,41 @@
-- 👋 Hi, I’m @solstice-born
-- 👀 I’m interested in making things that help people.
-- 🌱 I’m currently learning React.
-- 📫 How to reach me, you shouldn't.
+```
+███████  ██████  ██      ███████ ████████ ██  ██████ ███████          ██████   ██████  ██████  ███    ██ 
+██      ██    ██ ██      ██         ██    ██ ██      ██               ██   ██ ██    ██ ██   ██ ████   ██ 
+███████ ██    ██ ██      ███████    ██    ██ ██      █████   ███████  ██████  ██    ██ ██████  ██ ██  ██ 
+     ██ ██    ██ ██           ██    ██    ██ ██      ██               ██   ██ ██    ██ ██   ██ ██  ██ ██ 
+███████  ██████  ███████ ███████    ██    ██  ██████ ███████          ██████   ██████  ██   ██ ██   ████
+```
 
-<!---
-solstice-born/solstice-born is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hey there! 👋 I'm a Frontend Engineer who bridges design and accessibility
+
+*Currently working with React, Vite, and PHP to craft inclusive web experiences*
+
+## What I'm Building
+
+I specialize in creating frontend applications that work beautifully for everyone. My focus areas include:
+
+- **React & Modern Tooling** – Building responsive interfaces with React, Vite, and contemporary development workflows
+- **Accessibility Implementation** – Ensuring WCAG compliance and inclusive design patterns from the ground up  
+- **Development Workflow Optimization** – Streamlining team processes and tooling for better collaboration
+- **PHP Integration** – Connecting frontend experiences with robust backend systems
+
+## My Approach
+
+I believe great frontend development happens at the intersection of technical skill and human empathy. Whether I'm implementing keyboard navigation, optimizing build processes, or collaborating with designers on component APIs, I prioritize solutions that enhance both developer experience and user accessibility.
+
+## Currently Exploring
+
+- Advanced React patterns for component composition
+- Build tool optimization with Vite and modern bundlers  
+- Automated accessibility testing workflows
+- Cross-team collaboration tools and processes
+
+## Professional Transition
+
+I'm new to GitHub as a platform but not to professional development. I'm transitioning my work to open source collaboration and excited to contribute to the broader development community. You'll see my contribution history grow as I share projects and engage with open source work.
+
+## How to Reach Me
+
+Like a good user interface, I prefer to be discovered organically rather than directly contacted. But if our code paths cross in the wild, I promise to return a friendly 200 OK.
+
+---
