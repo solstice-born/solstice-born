@@ -26,8 +26,9 @@ I believe great frontend development happens at the intersection of technical sk
 ## Currently Exploring
 
 - Advanced React patterns for component composition
-- Build tool optimization with Vite and modern bundlers  
+- Build tool optimization with Vite and modern bundlers
 - Automated accessibility testing workflows
+- AWS cloud services and preparing for the [AWS Certified Developer - Associate certification](https://aws.amazon.com/certification/certified-developer-associate/)
 - Cross-team collaboration tools and processes
 
 ## Professional Transition
