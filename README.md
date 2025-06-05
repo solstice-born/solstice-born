@@ -31,10 +31,6 @@ I believe great frontend development happens at the intersection of technical sk
 - AWS cloud services and preparing for the [AWS Certified Developer - Associate certification](https://aws.amazon.com/certification/certified-developer-associate/)
 - Cross-team collaboration tools and processes
 
-## Professional Transition
-
-I'm new to GitHub as a platform but not to professional development. I'm transitioning my work to open source collaboration and excited to contribute to the broader development community. You'll see my contribution history grow as I share projects and engage with open source work.
-
 ## How to Reach Me
 
 Like a good user interface, I prefer to be discovered organically rather than directly contacted. But if our code paths cross in the wild, I promise to return a friendly 200 OK.
