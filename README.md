@@ -8,7 +8,7 @@
 
 # Hey there! 👋 I'm a Frontend Engineer who bridges design and accessibility
 
-*Currently working with React, Vite, and PHP to craft inclusive web experiences*
+*Currently working with Astro, EmDash CMS, React, Vite, and PHP to craft inclusive web experiences*
 
 ## What I'm Building
 
