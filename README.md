@@ -25,6 +25,7 @@ I believe great frontend development happens at the intersection of technical sk
 
 ## Currently Exploring
 
+- Astro and EmDash CMS site building
 - Advanced React patterns for component composition
 - Build tool optimization with Vite and modern bundlers
 - Automated accessibility testing workflows
