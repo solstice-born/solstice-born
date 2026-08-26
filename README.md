@@ -14,6 +14,8 @@
 
 I specialize in creating frontend applications that work beautifully for everyone. My focus areas include:
 
+- **EmDash CMS & Astro builds** - Migrating some company marketing sites from Wordpress to EmDash CMS
+- **Storybook Astro Component Libraries** - Building component libraries for my current company's multiple brands to consolidate and create a single source of truth for how things look on the web
 - **React & Modern Tooling** – Building responsive interfaces with React, Vite, and contemporary development workflows
 - **Accessibility Implementation** – Ensuring WCAG compliance and inclusive design patterns from the ground up  
 - **Development Workflow Optimization** – Streamlining team processes and tooling for better collaboration
